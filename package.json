@@ -1,0 +1,26 @@
+{
+  "name": "glsl-y-compare",
+  "version": "1.0.0",
+  "description": "A GLSL Module which is substitution for comparison operators",
+  "main": "index.glsl",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuichiroharai/glsl-y-compare.git"
+  },
+  "keywords": [
+    "glsl",
+    "glslify",
+    "shader",
+    "webgl"
+  ],
+  "author": {
+    "name": "Yuichiroh Arai",
+    "url": "http://www.yuichiroharai.com/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yuichiroharai/glsl-y-compare/issues"
+  },
+  "homepage": "https://github.com/yuichiroharai/glsl-y-compare#readme"
+}

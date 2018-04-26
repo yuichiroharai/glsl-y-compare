@@ -1,0 +1,6 @@
+#define le(x, y) step(x, y)
+#define lt(x, y) (1.0 - step(y, x))
+#define ge(x, y) step(y, x)
+#define gt(x, y) (1.0 - step(x, y))
+#define eq(x, y) (1.0 - abs(sign(x - y)))
+#define ne(x, y) abs(sign(x - y))
